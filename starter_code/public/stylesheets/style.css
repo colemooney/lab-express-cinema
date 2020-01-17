@@ -1,21 +1,7 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; 
-  background-image: url(../images/cinema.jpg);
-}
-.cinema{
-  float: right;
-  font: 24px "Lucida Grande", Helvetica, Arial, sans-serif; 
-  color: white;
-}
-.button1{
-  border-radius: 12px;
-  background-color: #e7e7e7; color: black;
-  font-size: 16px;
-  padding: 14px 30px;
-  color: grey;
-}
-}
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
 a {
   color: #00B7FF; }
 
